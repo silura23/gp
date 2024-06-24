@@ -1,5 +1,5 @@
 import random
-
+print('Да начнется веселье!!')
 digits = "0123456789" # цифры
 lowercase_letters = "abcdefghijklmnopqrstuvwxyz" # маленькие буквы
 uppercase_letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
